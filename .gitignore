@@ -324,5 +324,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
+.vagrant
 # End of https://www.toptal.com/developers/gitignore/api/windows,osx,macos,linux,ruby,rails,react,node
